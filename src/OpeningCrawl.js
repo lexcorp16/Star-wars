@@ -6,6 +6,10 @@ import { SelectedMovieContext } from "./contexts/selectedMovie";
 const Crawl = styled.div`
   max-width: 60%;
   margin-bottom: 30px;
+
+  span {
+    line-height: 25px;
+  }
 `;
 
 const OpeningCrawl = () => {

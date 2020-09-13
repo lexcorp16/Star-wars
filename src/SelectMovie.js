@@ -9,7 +9,8 @@ const Select = styled.select`
   background: transparent;
   border: 2px solid #ffe300;
   border-radius: 5px;
-  font-size: 14px;
+  font-size: 16px;
+  font-family: 'Montserrat';
   padding: 8px 5px;
   margin-bottom: 20px;
 
